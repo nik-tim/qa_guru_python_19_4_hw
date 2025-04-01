@@ -7,7 +7,7 @@ def test_greeting():
     name = "Анна"
     age = 25
     # TODO Сформируйте нужную строку
-    output = "Привет,"+ name+"! тебе " + str(age)+" лет."
+    output = "Привет, "+ name+"! Тебе " + str(age)+" лет."
     print(output)
 
     # Проверяем результат
